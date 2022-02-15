@@ -1,4 +1,4 @@
-# Data-Analysis-Projects
+# COVID cases study project.sql
 
  SELECT * FROM portofilio_project1.covid_deaths;
  
